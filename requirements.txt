@@ -1,5 +1,0 @@
-aiogram==3.13.1
-fastapi
-uvicorn
-pydantic==2.5.2
-emoji
